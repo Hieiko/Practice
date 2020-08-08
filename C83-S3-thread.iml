@@ -9,6 +9,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/com/yc/three/0728" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/com/yc/three/0725" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/com/yc/three/map" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/com/yc/three/Annotations" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
