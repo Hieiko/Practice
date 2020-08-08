@@ -1,6 +1,6 @@
 import java.util.List;
 
-public class Demo1 {
+public class AnnotationDemo1 {
     @Test
     @Select(value = {"select * from a","select * from b"})
     public void test(){
